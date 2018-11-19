@@ -1,4 +1,6 @@
 print("hello world.")
 
-#xiugai
+#x shanchu zengjia
 print("xiugai No.1")
+
+print("dierci xiug")
