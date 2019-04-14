@@ -3,4 +3,8 @@ print("hello world.")
 #x shanchu zengjia
 print("xiugai No.1")
 
-print("dierci xiug")
+
+print("disanci xiug ")
+#test chexiao dierci 
+haha
+local
